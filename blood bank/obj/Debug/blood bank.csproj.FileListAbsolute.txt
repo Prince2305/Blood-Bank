@@ -1,0 +1,36 @@
+E:\vis\blood bank\blood bank\bin\Debug\blood bank.exe.config
+S:\New folder\blood bank\blood bank\blood bank\bin\Debug\blood bank.exe.config
+S:\New folder\blood bank\blood bank\blood bank\bin\Debug\blood bank.exe
+S:\New folder\blood bank\blood bank\blood bank\bin\Debug\blood bank.pdb
+S:\New folder\blood bank\blood bank\blood bank\obj\Debug\blood bank.csprojResolveAssemblyReference.cache
+S:\New folder\blood bank\blood bank\blood bank\obj\Debug\blood_bank.BloodStock.resources
+S:\New folder\blood bank\blood bank\blood bank\obj\Debug\blood_bank.BloodTransfer.resources
+S:\New folder\blood bank\blood bank\blood bank\obj\Debug\blood_bank.Dashboard.resources
+S:\New folder\blood bank\blood bank\blood bank\obj\Debug\blood_bank.Donor.resources
+S:\New folder\blood bank\blood bank\blood bank\obj\Debug\blood_bank.Mainform.resources
+S:\New folder\blood bank\blood bank\blood bank\obj\Debug\blood_bank.patient.resources
+S:\New folder\blood bank\blood bank\blood bank\obj\Debug\blood_bank.splash.resources
+S:\New folder\blood bank\blood bank\blood bank\obj\Debug\blood_bank.Login.resources
+S:\New folder\blood bank\blood bank\blood bank\obj\Debug\blood_bank.Properties.Resources.resources
+S:\New folder\blood bank\blood bank\blood bank\obj\Debug\blood_bank.Viewdonor.resources
+S:\New folder\blood bank\blood bank\blood bank\obj\Debug\blood_bank.ViewPatient.resources
+S:\New folder\blood bank\blood bank\blood bank\obj\Debug\blood bank.csproj.GenerateResource.Cache
+S:\New folder\blood bank\blood bank\blood bank\obj\Debug\blood bank.exe
+S:\New folder\blood bank\blood bank\blood bank\obj\Debug\blood bank.pdb
+S:\New folder\blood bank\blood bank\blood bank\obj\Debug\Interop.ORAOLEDBLib.dll
+S:\New folder\blood bank\blood bank\blood bank\obj\Debug\blood bank.csproj.ResolveComReference.cache
+S:\New folder\blood bank\blood bank\blood bank\bin\Debug\MySql.Data.dll
+S:\New folder\blood bank\blood bank\blood bank\bin\Debug\MySql.Data.EntityFramework.dll
+S:\New folder\blood bank\blood bank\blood bank\bin\Debug\MySql.Web.dll
+S:\New folder\blood bank\blood bank\blood bank\bin\Debug\Google.Protobuf.dll
+S:\New folder\blood bank\blood bank\blood bank\bin\Debug\Zstandard.Net.dll
+S:\New folder\blood bank\blood bank\blood bank\bin\Debug\K4os.Compression.LZ4.Streams.dll
+S:\New folder\blood bank\blood bank\blood bank\bin\Debug\BouncyCastle.Crypto.dll
+S:\New folder\blood bank\blood bank\blood bank\bin\Debug\Ubiety.Dns.Core.dll
+S:\New folder\blood bank\blood bank\blood bank\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+S:\New folder\blood bank\blood bank\blood bank\bin\Debug\System.Buffers.dll
+S:\New folder\blood bank\blood bank\blood bank\bin\Debug\K4os.Compression.LZ4.dll
+S:\New folder\blood bank\blood bank\blood bank\bin\Debug\K4os.Hash.xxHash.dll
+S:\New folder\blood bank\blood bank\blood bank\bin\Debug\MySql.Data.xml
+S:\New folder\blood bank\blood bank\blood bank\bin\Debug\MySql.Data.EntityFramework.xml
+S:\New folder\blood bank\blood bank\blood bank\bin\Debug\MySql.Web.xml
